@@ -1,0 +1,26 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+
+.bio{
+    text-align: center;
+}
+
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+#player{
+    color: blue;
+}
+
+#computer{
+    color: red;
+}
+
